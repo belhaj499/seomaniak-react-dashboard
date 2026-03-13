@@ -32,10 +32,12 @@ npm run dev
 ## Structure du projet
 
 src/
-components/
-Header.jsx
-Stats.jsx
-UserForm.jsx
-UserList.jsx
-App.jsx
+- components/
+  - Header.jsx
+  - Stats.jsx
+  - UserForm.jsx
+  - UserList.jsx
+- App.jsx
+- main.jsx
+- index.css
 
